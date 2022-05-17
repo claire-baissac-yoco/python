@@ -1,0 +1,11 @@
+GET /
+GET /product/dogFood/recommended
+GET /product/dogFood/sale
+GET /product/dogFood?brand=Hills
+GET /product/dogFood?excludeBrand=Montego
+GET /product/catFood
+GET /product?query=puppy
+GET /product/dogFood?query=puppy
+GET /admin/product
+GET /admin/product/dogFood
+POST /admin/product/dogFood
